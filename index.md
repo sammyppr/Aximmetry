@@ -28,7 +28,17 @@ VirtualProductionを手軽に行えるシステムを探していたところ、
 ### Aximmetry
 - Windows版のみ
 - [SE/DE版](https://aximmetry.com/ja/aximmetry-de-se)があるが、UnrealEngineを利用する場合はDE版が必要
+- [Aximmetryソフトウェア版](https://aximmetry.com/ja/products) Community Edition(廃止？)/Studio Edition(無料)/Professional Edition/Broadcast Editionがある
 - [推奨動作環境](https://aximmetry.com/ja/hardware-configuration)はスペック高め
+- ログインしてDownloadを見ると以下がある。
+    - Aximmetry Studio DE 2024.3.0(必須)
+    - Aximmetry用Unreal Engine 2024.3.0(必須)
+    - Aximmetry.Common_Library_2024.3.0 パッケージ(必須)
+    - Aximmetry.Studio_Demo_Sets_2024.3.0 パッケージ
+    - Aximmetry.Tutorials_and_Samples_2024.3.0 パッケージ
+> 通常、このファイルはAximmetryのインストール中に自動的にダウンロードされ、インストールされます。ドライブにバックアップしたい場合、または自動ダウンロードに問題がある場合のみ、こちらからダウンロードしてください。
+
+と書いてあるが、自分でインストールの必要性があった。
 
 ### Aximmetry Eye
 - [Aximmetry Eye](https://aximmetry.com/ja/aximmetry-eye)
