@@ -8,7 +8,7 @@ VirtualProductionを手軽に行えるシステムを探していたところ、
 
 やりたいことは、バーチャルスタジオにリアルタイムでグリーンバック撮影したものを合成すること。なるべく無償で行いたい。
 
-- [Virtual Production demo with Aximmetry Eye mobile app| Aximmetry](https://www.youtube.com/watch?v=dugtm2TlY44)
+- [Virtual Production demo with Aximmetry Eye mobile app--- Aximmetry](https://www.youtube.com/watch?v=dugtm2TlY44)
 
 を見ると非常に簡単にできそうであるが、様々なところでハマったため、備忘録としてやり方を残す。
 
@@ -17,9 +17,8 @@ VirtualProductionを手軽に行えるシステムを探していたところ、
 ---
 
 ## 実施したいこと
-- UnrealEngineでバーチャルスタジオ制作
-- Aximmetry Eyeでグリーンバック撮影
-- Aximmetryで合成
+1. UnrealEngineでバーチャルスタジオ制作
+2. Aximmetry Eyeでグリーンバック撮影・Aximmetryで合成
 
 ---
 ---
